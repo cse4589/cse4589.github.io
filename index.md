@@ -40,9 +40,9 @@ Wherever required, we mention the link to setup instructions, labeled as: **Inst
 The setup/usage instructions, wherever needed, list separately the steps required by instructors at UB and for instructors/course staff outside UB. Although the PAs are generic in nature and not tied to UB specifically, UB-specific instructions take into account the specific infrastructure made available by UB's CSE-IT team to reduce the setup workload for UB course instructors/staff.
 
 ## Details
-### [Programming Assignment 1 (PA1)](/pa1/)
-### [Programming Assignment 2 (PA2)](/pa2/)
-### [Programming Assignment 3 (PA3)](/pa3/)
+### [Programming Assignment 1 (PA1)](/pa1/){:target="_blank"}
+### [Programming Assignment 2 (PA2)](/pa2/){:target="_blank"}
+### [Programming Assignment 3 (PA3)](/pa3/){:target="_blank"}
 
 * * *
 
