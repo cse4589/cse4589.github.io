@@ -35,7 +35,7 @@ The _Details_ section below provides the links to web-pages containing details/r
 The three assignments are completely independent of each other and the instructor might choose to use any subset of them. However, note that students may find it difficult to attempt PA3 without doing PA1 first.
 
 ## Setup (for Instructors/Course staff)
-Wherever required, we mention the link to setup instructions, labeled as: **Instructions: Automated grader setup (Course staff)** under each PA's web-page accessed through the links mentioned below in the _Details_ section. The instructions list the infrastructure (servers, networking etc.) required for each PA and a guide to setup any components needed by the automated grader to function.
+Wherever required, we mention the link to setup instructions, labeled as: **Instructions: Automated grader setup (Course staff)** under each PA's web-page accessed through the links mentioned below in the _Details_ section. The instructions list the infrastructure (servers, networking, etc.) required for each PA and a guide to setup any components needed by the automated grader to function.
 
 The setup/usage instructions, wherever needed, list separately the steps required by instructors at UB and for instructors/course staff outside UB. Although the PAs are generic in nature and not tied to UB specifically, UB-specific instructions take into account the specific infrastructure made available by UB's CSE-IT team to reduce the setup workload for UB course instructors/staff.
 
@@ -47,11 +47,11 @@ The setup/usage instructions, wherever needed, list separately the steps require
 * * *
 
 # Contact Us
-We would love hear any feedback/comments regarding any aspect of the PAs. For bugs, feature requests etc. in the automated grader use the github repository linked under **Automated Grader (Source)** on each PA's web-page. Specifically, if you are trying to setup the PAs for a course outside UB, feel free to contact us with any questions regarding setup or any changes that you might like to make to adapt the PAs for your specific needs.
+We would love to hear any feedback/comments regarding any aspect of the PAs. For bugs, feature requests, etc. in the automated grader use the github repository linked under **Automated Grader (Source)** on each PA's web-page. Specifically, if you are trying to setup the PAs for a course outside UB, feel free to contact us with any questions regarding setup or any changes that you might like to make to adapt the PAs for your specific needs.
 
 <dl>
 <dt>Lead Developer</dt>
 <dd>Swetank Kumar Saha (swetankk [at] buffalo [dot] edu)</dd>
-<dt>Course Instructor/Advisor</dt>
+<dt>Course Instructor</dt>
 <dd>Dimitrios Koutsonikolas (dimitrio [at] buffalo [dot] edu)</dd>
 </dl>
