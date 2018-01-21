@@ -13,7 +13,7 @@ PA1 introduces students to **TCP socket programming**, asking them to develop th
 * [Instructions: Using code template and auto grader (Students)](https://goo.gl/L2kgb5){:target="_blank"}
 * [Instructions: Automated grader setup (Course staff)](https://github.com/cse4589/cse4589-pa1/blob/master/README.md){:target="_blank"}
 
-### Suggested workload/time
+## Suggested workload/time
 5 weeks
 
 ***
