@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Introduction
-This is a set of _three_ **networking programming assignments** (PAs), along with an automated tester/grader, available to both students and instructors. The assignments have been used in CSE 489/589, a joint senior undergraduate/introductory graduate class, in the [CSE department](https://engineering.buffalo.edu/computer-science-engineering.html){:target="_blank"} at the [University at Buffalo (UB)](http://www.buffalo.edu/){:target="_blank"}. For each PA, we provide:
+This is a set of _three_ **networking programming assignments** (PAs), along with an automated tester/grader, available to both students and instructors. The assignments have been used in CSE 489/589, a joint senior undergraduate/introductory graduate class, in the [CSE department](https://engineering.buffalo.edu/computer-science-engineering.html){:target="_blank"} at the [University at Buffalo (UB)](https://www.buffalo.edu/){:target="_blank"}. For each PA, we provide:
 
 * Detailed description of the assignment
 * Grading rubric
@@ -46,7 +46,7 @@ The setup/usage instructions lists separately the steps required by instructors 
 Setup/Usage instructions specific to UB are marked as:
 
 > ***
-> <img src="http://cse4589.github.io/assets/site/images/UB_BLU_RGB.png" width="30">
+> <img src="https://cse4589.github.io/assets/site/images/UB_BLU_RGB.png" width="30">
 >
 > ............
 >
