@@ -46,10 +46,12 @@ The setup/usage instructions lists separately the steps required by instructors 
 Setup/Usage instructions specific to UB are marked as:
 
 > ***
+> <img src="http://cse4589.github.io/assets/site/images/UB_BLU_RGB.png" width="30">
 >
-> ##### <img src="http://cse4589.github.io/assets/site/images/UB_BLU_RGB.png" width=30></img>
-> ....
-> ....
+> ............
+>
+> .......
+>
 > ***
 
 If you are setting up the grader inside UB CSE, you **MUST** read those parts of the setup guide carefully. If you are using the PAs outside UB, you can safely skip these sections.
