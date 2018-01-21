@@ -26,7 +26,7 @@ The assignments are designed in a way that they are usable by similar courses **
 ## Use
 The assignments are designed in such a way that course instructors can use them by simply distributing to the students the link to a single document: **assignment handout** for a given PA, which contains the full description of the assignment problem, grading rubric, download links to the template and automated grader, and the link to the instructions for using the template and the automated grader. The document contains all the information required for the students to be able to complete the assignment (and even for the course staff to be able to grade student submissions).
 
-The _Details_ section below provides the links to web-pages containing all details/resources for each of the three PAs. The _assignment handout_ for the PA can be accessed through the link labeled: _**Description**_ on the it's web-page. Although the page includes additional resources for each assignment, the _assignment handout_ is the **only** link/document that needs to be provided to the students by the instructor. For quick reference, the links to the _assignment handout_ are provided here:
+The _Details_ section below provides the links to web-pages containing all details/resources for each of the three PAs. The _assignment handout_ for the PA can be accessed through the link labeled: _**Description**_ on its web-page. Although the page includes additional resources for each assignment, the _assignment handout_ is the **only** link/document that needs to be provided to the students by the instructor. For quick reference, the links to the _assignment handout_ are provided here:
 
 * [PA1 assignment handout](https://goo.gl/bqf2E1){:target="_blank"}
 * [PA2 assignment handout](https://goo.gl/KzTh0J){:target="_blank"}
@@ -35,9 +35,9 @@ The _Details_ section below provides the links to web-pages containing all detai
 The three assignments are completely independent of each other and the instructor might choose to use any subset of them. However, note that students may find it difficult to attempt PA3 without doing PA1 first.
 
 ## AutoGrader Setup (for Instructors/Course staff)
-The AutoGrader is designed to test the student submissions on a "real" network (except PA2). To be able to achieve this, the AutoGrader has specific requirements in terms of physical infrastructure (host machines, disk space, user accounts etc.) and in certain cases needs a one-time setup/installation to be able to perform the grading. AutoGrader setup needs to be performed by the instructor/course staff before the assignment is released to the students.
+The AutoGrader is designed to test the student submissions on a "real" network (except PA2). To be able to achieve this, the AutoGrader has specific requirements in terms of physical infrastructure (host machines, disk space, user accounts, etc.) and in certain cases needs a one-time setup/installation to be able to perform the grading. AutoGrader setup needs to be performed by the instructor/course staff before the assignment is released to the students.
 
-We provide detailed setup instructions for each PA on it's web-page (accessed through the links mentioned below in the _Details_ section).
+We provide detailed setup instructions for each PA on its web-page (accessed through the links mentioned below in the _Details_ section).
 These can be accessed through the **Instructions: Automated grader setup (Course staff)** link listed on each PA's web-page. The instructions list the infrastructure (servers, networking, etc.) required for each PA and a guide to install any components needed by the automated grader to function.
 
 The setup/usage instructions lists separately the steps required by instructors at UB and for instructors/course staff outside UB. Although the PAs are generic in nature and not tied to UB specifically, UB-specific instructions take into account the specific infrastructure made available by UB's CSE-IT team to reduce the setup workload for UB course instructors/staff.
