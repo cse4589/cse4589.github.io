@@ -17,7 +17,7 @@ PA3 asks students to implement a simplified version of the **Distance Vector rou
 5 weeks
 
 ## Quick Checklist: Instructors/Course Staff
-In order for students to be able to complete PA3, they need to be provided:
+In order for students to be able to complete PA3, they need to be provided with:
 
 1. Link to the assignment handout
 3. List of the five grading hosts and path to the student work/test directory
