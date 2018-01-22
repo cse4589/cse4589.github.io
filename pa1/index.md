@@ -16,6 +16,13 @@ PA1 introduces students to **TCP socket programming**, asking them to develop th
 ## Suggested workload/time
 5 weeks
 
+## Quick Checklist: UB Instructors/Course Staff
+In order for students to be able to complete PA1, they need to be provided:
+
+1. Link to the assignment handout
+3. List of the five grading hosts and path to the student work/test directory
+2. Port number of the AutoGrader server
+
 ***
 
 [Home](/)
