@@ -16,6 +16,12 @@ PA2 asks students to implement three **reliable data transport protocols**: _Alt
 ## Suggested workload/time
 3-4 weeks
 
+## Quick Checklist: Instructors/Course Staff
+In order for students to be able to complete PA2, they need to be provided:
+
+1. Link to the assignment handout
+3. Assignment of a grading host/machine to each student (Optional. Required only if repeatability of exact simulation results is needed)
+
 ***
 
 [Home](/)
