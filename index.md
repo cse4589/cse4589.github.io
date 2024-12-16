@@ -29,7 +29,7 @@ The assignments are designed in such a way that course instructors can use them 
 The _Details_ section below provides the links to web-pages containing all details/resources for each of the three PAs. The _assignment handout_ for the PA can be accessed through the link labeled: _**Description**_ on its web-page. Although the page includes additional resources for each assignment, the _assignment handout_ is the **only** link/document that needs to be provided to the students by the instructor. For quick reference, the links to the _assignment handout_ are provided here:
 
 * [PA1 assignment handout](https://docs.google.com/document/d/13c2BCvLthT1_ddhbUTOINS0KOsaS1Ypz/edit?usp=sharing&ouid=110174116322887884401&rtpof=true&sd=true){:target="_blank"}
-* [PA2 assignment handout](https://goo.gl/KzTh0J){:target="_blank"}
+* [PA2 assignment handout](https://docs.google.com/document/d/1kv_Fg6nDZtxhd_ar5Ng_7vjI4_6fDCvX/edit?usp=sharing&ouid=110174116322887884401&rtpof=true&sd=true){:target="_blank"}
 * [PA3 assignment handout](https://goo.gl/HYHcyQ){:target="_blank"}
 
 The three assignments are completely independent of each other and the instructor might choose to use any subset of them. However, note that students may find it difficult to attempt PA3 without doing PA1 first.
